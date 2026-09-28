@@ -1,0 +1,17 @@
+com\jwtauth\backend\config\SecurityConfig.class
+com\jwtauth\backend\dto\RegisterRequest.class
+com\jwtauth\backend\dto\MessageResponse.class
+com\jwtauth\backend\security\JwtAuthFilter.class
+com\jwtauth\backend\model\User.class
+com\jwtauth\backend\dto\AuthResponse.class
+com\jwtauth\backend\controller\UserController.class
+com\jwtauth\backend\exception\GlobalExceptionHandler.class
+com\jwtauth\backend\dto\AuthResponse$Builder.class
+com\jwtauth\backend\dto\LoginRequest.class
+com\jwtauth\backend\controller\AuthController.class
+com\jwtauth\backend\BackendApplication.class
+com\jwtauth\backend\model\Role.class
+com\jwtauth\backend\repository\UserRepository.class
+com\jwtauth\backend\model\User$Builder.class
+com\jwtauth\backend\security\JwtUtil.class
+com\jwtauth\backend\security\CustomUserDetailsService.class
